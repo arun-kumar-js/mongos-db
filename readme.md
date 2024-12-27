@@ -1,15 +1,15 @@
 ## 1. users Collection
 [
-    { "_id": 1, "name": "John Doe", "mentor_id": 1 },
-    { "_id": 2, "name": "Jane Smith", "mentor_id": 2 },
-    { "_id": 3, "name": "Alice Johnson", "mentor_id": 3 },
-    { "_id": 4, "name": "Bob Brown", "mentor_id": 1 },
-    { "_id": 5, "name": "Charlie White", "mentor_id": 2 },
-    { "_id": 6, "name": "David Green", "mentor_id": 3 },
-    { "_id": 7, "name": "Ella Black", "mentor_id": 1 },
-    { "_id": 8, "name": "Frank Gray", "mentor_id": 2 },
-    { "_id": 9, "name": "Grace Blue", "mentor_id": 3 },
-    { "_id": 10, "name": "Hank Red", "mentor_id": 1 }
+    { "_id": 1, "name": "arunkumar", "mentor_id": 1 },
+    { "_id": 2, "name": "Ak", "mentor_id": 2 },
+    { "_id": 3, "name": "mani", "mentor_id": 3 },
+    { "_id": 4, "name": "kumar", "mentor_id": 1 },
+    { "_id": 5, "name": "Kaniskar", "mentor_id": 2 },
+    { "_id": 6, "name": "sankar", "mentor_id": 3 },
+    { "_id": 7, "name": "vicky", "mentor_id": 1 },
+    { "_id": 8, "name": "ramaesh", "mentor_id": 2 },
+    { "_id": 9, "name": "suresh", "mentor_id": 3 },
+    { "_id": 10, "name": "nothing", "mentor_id": 1 }
 ]
 
 ## 2. codekata Collection
